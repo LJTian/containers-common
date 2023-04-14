@@ -1,4 +1,3 @@
-//go:build !linux || !seccomp
 // +build !linux !seccomp
 
 // SPDX-License-Identifier: Apache-2.0

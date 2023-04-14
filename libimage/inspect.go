@@ -2,6 +2,7 @@ package libimage
 
 import (
 	"context"
+	"encoding/json"
 	"time"
 
 	"github.com/containers/image/v5/manifest"

@@ -1,4 +1,3 @@
-//go:build seccomp
 // +build seccomp
 
 // NOTE: this package has originally been copied from
