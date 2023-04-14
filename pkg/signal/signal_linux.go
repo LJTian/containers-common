@@ -1,5 +1,5 @@
-//go:build linux && !mips && !mipsle && !mips64 && !mips64le
-// +build linux,!mips,!mipsle,!mips64,!mips64le
+//go:build linux && !mips && !mipsle && !mips64 && !mips64le && !sw64
+// +build linux,!mips,!mipsle,!mips64,!mips64le,!sw64
 
 // Signal handling for Linux only.
 package signal
